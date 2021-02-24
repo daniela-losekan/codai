@@ -1,5 +1,5 @@
 var nome = "Daniela";
-var cargo = desenvolvedora
+var cargo = developer
 var cargohtml = document.getElementById("cargo-no-html");
 var texto1 = document.get.getElementById("texto-1");
 var texto2 = document.get.getElementById("texto-2");
